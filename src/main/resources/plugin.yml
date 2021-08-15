@@ -9,3 +9,6 @@ commands:
   lbow:
     description: get a lightning bow!
     usage: /<command>
+  inv:
+    description: makes op'd player invisible
+    usage: /<command>

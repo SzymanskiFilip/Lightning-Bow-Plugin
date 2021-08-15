@@ -13,12 +13,12 @@ public class InvisibilityCommand implements CommandExecutor {
             if(player.isOp()){
                 if(player.isInvisible()){
                     player.setInvisible(false);
-                } else if(!player.isInvisible()){
+                } else{
                     player.setInvisible(true);
                 }
             }
         }
 
-        return false;
+        return true;
     }
 }
