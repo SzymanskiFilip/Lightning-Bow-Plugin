@@ -9,7 +9,7 @@
 ``/inv`` Makes the player executing the command invisible
 
 ---
-The **Lightning Bow** is tought to be used by admins to have some fun!
+The **Lightning Bow** is tought to be used by admins(op) to have some fun!
 
 ---
 ### How to Install and Use the Plugin
