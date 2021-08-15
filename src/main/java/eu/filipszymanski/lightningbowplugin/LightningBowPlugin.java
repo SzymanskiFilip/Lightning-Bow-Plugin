@@ -12,5 +12,5 @@ public final class LightningBowPlugin extends JavaPlugin {
         getServer().getPluginManager().registerEvents(new LightningBowEvent(), this);
         getCommand("lbow").setExecutor(new BowCommand());
     }
-    
+
 }
