@@ -5,7 +5,7 @@
  ---
  Commands:
  
-``/lbow`` Gives the player a the Lightning Bow
+``/lbow`` Gives the player a the Lightning Bow <br />
 ``/inv`` Makes the player executing the command invisible
 
 ---
