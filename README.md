@@ -4,7 +4,8 @@
  
  ---
  Commands:
-``/lbow`` Gives the player a the Lightning Bow
+ 
+``/lbow`` Gives the player a the Lightning Bow <br />
 ``/inv`` Makes the player executing the command invisible
 
 ---
@@ -12,7 +13,7 @@ The **Lightning Bow** is tought to be used by admins to have some fun!
 
 ---
 ### How to Install and Use the Plugin
-To use the Plugin you need to have a **Bukkit** server installed.
+To use the Plugin you need to have a **Bukkit** server installed. [TUTORIAL(comming soon)]()
 1. Navigate to the **Bukkit Server** directory.
 2. Navigate to the **Plugins folder**.
 3. Paste the **JAR file** either from from the Download link or target file in the **Repo**.
