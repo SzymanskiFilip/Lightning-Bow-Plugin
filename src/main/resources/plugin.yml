@@ -1,0 +1,11 @@
+name: Lightning-Bow-Plugin
+version: '${project.version}'
+main: eu.filipszymanski.lightningbowplugin.LightningBowPlugin
+api-version: 1.17
+authors: [ Filip ]
+description: A Minecraft 1.17.1 Plugin which allows the player to activate a lightning on the landing position of the arrow shot
+website: filipszymanski.eu
+commands:
+  lbow:
+    description: get a lightning bow!
+    usage: /<command>
